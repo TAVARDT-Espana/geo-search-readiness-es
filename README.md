@@ -1,4 +1,4 @@
-# Auditor de Búsqueda con IA y GEO | TAVARDT España
+# Auditor de Búsqueda con IA y GEO
 
 [![Auditor GEO](https://img.shields.io/badge/TAVARDT-Busqueda%20IA%20GEO-5b3cf5.svg)](https://tools.tavardt.com/es/auditor-busqueda-ia-geo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para auditorias continuas con interfaz grafica, acceda a la herramienta oficial:
 ## Consultoria en Visibilidad y Motores de IA
 
 Para proyectos de optimizacion semantica y presencia en modelos generativos en Espana, consulte a los especialistas de **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
